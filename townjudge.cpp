@@ -48,12 +48,11 @@ void solve() {
             count++;
         }
         if(count==0 && indegree[i]==n-1){
-            cout<<i<<endl;
-            break;
+           cout<<i<<endl;
         }
     
     }
-
+    
     
     
 }
